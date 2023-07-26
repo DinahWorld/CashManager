@@ -1,0 +1,19 @@
+{
+	"data": [
+        {
+            "code": "10",
+            "name": "kinder",
+            "price": "1"
+        },
+        {
+            "code": "11",
+            "name": "oreo",
+            "price": "2"
+        },
+        {
+            "code": "12",
+            "name": "coca",
+            "price": "3"
+        }
+    ]
+}
